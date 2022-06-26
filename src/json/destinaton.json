@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "name":"Lasem Kota Tua ( Pecinan )",
+        "image":"https://phinemo.com/wp-content/uploads/2020/10/230422887-min.jpg",
+        "langtitude":-6.7265782,
+        "longtitude":111.3725848,
+        "description":"Lasem merupakan kota kecamatan di Kabupaten Rembang. Di daerah Lasem kota tua (pecinan) sangat kental dengan wisata budaya nya dimana kita bisa menikmati berbagai elemen kebudayaan yaitu Jawa, Tionghoa, Belanda dan warisan Majapahit.",
+        "address":"Jl.Karangturi No.4/7, Mahbong, Karangturi, Kec. Lasem, Kabupaten Rembang"
+    },
+    {
+        "id":2,
+        "name":"Makam RA Kartini",
+        "image":"https://blogpictures.99.co/sumber-okezonecom-1.png",
+        "langtitude":-6.7071924,
+        "longtitude":111.3484737,
+        "description":"Lasem merupakan kota kecamatan di Kabupaten Rembang. Di daerah Lasem kota tua (pecinan) sangat kental dengan wisata budaya nya dimana kita bisa menikmati berbagai elemen kebudayaan yaitu Jawa, Tionghoa, Belanda dan warisan Majapahit.",
+        "address":"Jl. RA Kartini No.50b, RT.002/RW.004, Margahayu, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17113"
+    },
+    {
+        "id":3,
+        "name":"Museum RA Kartini",
+        "image":"https://asset.kompas.com/crops/n4hMeUhdCF5cEF7jG0ylEFmQpMs=/0x0:1000x667/750x500/data/photo/2017/05/19/212549820170519-092258-4802-museum.kartini-.jepara-.jpg",
+        "langtitude":-6.7071924,
+        "longtitude":111.3484737,
+        "description":"Lasem merupakan kota kecamatan di Kabupaten Rembang. Di daerah Lasem kota tua (pecinan) sangat kental dengan wisata budaya nya dimana kita bisa menikmati berbagai elemen kebudayaan yaitu Jawa, Tionghoa, Belanda dan warisan Majapahit.",
+        "address": "Jl. Kartini, Panggang I, Panggang, Kec. Jepara, Kabupaten Jepara, Jawa Tengah 59411"
+    },
+    {
+        "id":4,
+        "name":"Masjid Jami Lasem",
+        "image":"https://upload.wikimedia.org/wikipedia/id/e/e8/Masjid_jami_Lasem.jpeg",
+        "langtitude":-6.7107108,
+        "longtitude":111.3946759,
+        "description":"Lasem merupakan kota kecamatan di Kabupaten Rembang. Di daerah Lasem kota tua (pecinan) sangat kental dengan wisata budaya nya dimana kita bisa menikmati berbagai elemen kebudayaan yaitu Jawa, Tionghoa, Belanda dan warisan Majapahit.",
+        "address":"8C2W+QXM, Jalan Provinsi Lasem - Sale, Kauman, Mahbong, Karangturi, Kec. Lasem, Kabupaten Rembang, Jawa Tengah 59271"
+    },
+    {
+        "id":5,
+        "name":"Makam Sunan Bonang",
+        "image":"https://indonesiakaya.com/wp-content/uploads/2020/10/makam-sunan-bonang-1200.jpg",
+        "langtitude":-6.7522201,
+        "longtitude":111.4592745,
+        "description":"Lasem merupakan kota kecamatan di Kabupaten Rembang. Di daerah Lasem kota tua (pecinan) sangat kental dengan wisata budaya nya dimana kita bisa menikmati berbagai elemen kebudayaan yaitu Jawa, Tionghoa, Belanda dan warisan Majapahit.",
+        "address":"4347+484, Jalan Kh Mustain, Kutorejo, Kecamatan Tuban, Kutorejo, Kec. Tuban, Kabupaten Tuban, Jawa Timur 62311"
+    },
+    {
+        "id":6,
+        "name":"Situs Perahu Kuno Punjulharjo",
+        "image":"https://1.bp.blogspot.com/-N62eU4-33zs/XdU2x33VqeI/AAAAAAAAF4Y/LfOPHjFw_CcJnShmzliTDWGxksaZamPTACLcBGAsYHQ/s1600/20190518_132415.jpg",
+        "langtitude":-6.6907186,
+        "longtitude":111.4015915,
+        "description":"Lasem merupakan kota kecamatan di Kabupaten Rembang. Di daerah Lasem kota tua (pecinan) sangat kental dengan wisata budaya nya dimana kita bisa menikmati berbagai elemen kebudayaan yaitu Jawa, Tionghoa, Belanda dan warisan Majapahit.",
+        "address":"8C45+PCH, Jetakbelah, Punjulharjo, Kec. Rembang, Kabupaten Rembang, Jawa Tengah 59219"
+    }
+]
