@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Explore-Rembang/static/css/main.2b270140.css",
-    "main.js": "/Explore-Rembang/static/js/main.31f05e60.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Explore-Rembang/static/js/787.28cb0dcd.chunk.js",
-    "static/media/banner.jpeg": "/Explore-Rembang/static/media/banner.067045e9a04c517d3215.jpeg",
-    "static/media/marker-icon.png": "/Explore-Rembang/static/media/marker-icon.ebc8fbb1ea8b70756b89.png",
-    "index.html": "/Explore-Rembang/index.html",
-    "main.2b270140.css.map": "/Explore-Rembang/static/css/main.2b270140.css.map",
-    "main.31f05e60.js.map": "/Explore-Rembang/static/js/main.31f05e60.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Explore-Rembang/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/explore-rembang/static/css/main.2b270140.css",
+    "main.js": "/explore-rembang/static/js/main.5c5599f8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/explore-rembang/static/js/787.28cb0dcd.chunk.js",
+    "static/media/banner.jpeg": "/explore-rembang/static/media/banner.067045e9a04c517d3215.jpeg",
+    "static/media/marker-icon.png": "/explore-rembang/static/media/marker-icon.ebc8fbb1ea8b70756b89.png",
+    "index.html": "/explore-rembang/index.html",
+    "main.2b270140.css.map": "/explore-rembang/static/css/main.2b270140.css.map",
+    "main.5c5599f8.js.map": "/explore-rembang/static/js/main.5c5599f8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/explore-rembang/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b270140.css",
-    "static/js/main.31f05e60.js"
+    "static/js/main.5c5599f8.js"
   ]
 }
