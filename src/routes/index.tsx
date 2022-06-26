@@ -1,12 +1,12 @@
 import React from 'react';
-import {BrowserRouter, Routes, Route, Navigate} from 'react-router-dom'
+import {BrowserRouter, Routes, Route} from 'react-router-dom'
 import { HomePage, MapPage, PlaceDetailPage, PlacePage } from '../container';
 import { Navbar } from '../components';
 
 const Router: React.FC = (): JSX.Element => {
   return(
     <>
-      <BrowserRouter>
+      <BrowserRouter basename='/'>
         <Navbar/>
         <Routes>
           <Route path="/" element={<HomePage />}/>
