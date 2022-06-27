@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/explore-rembang/static/css/main.2b270140.css",
-    "main.js": "/explore-rembang/static/js/main.318d44bc.js",
+    "main.js": "/explore-rembang/static/js/main.cb8b8787.js",
     "static/js/787.28cb0dcd.chunk.js": "/explore-rembang/static/js/787.28cb0dcd.chunk.js",
     "static/media/banner.jpeg": "/explore-rembang/static/media/banner.067045e9a04c517d3215.jpeg",
     "static/media/marker-icon.png": "/explore-rembang/static/media/marker-icon.ebc8fbb1ea8b70756b89.png",
     "index.html": "/explore-rembang/index.html",
     "main.2b270140.css.map": "/explore-rembang/static/css/main.2b270140.css.map",
-    "main.318d44bc.js.map": "/explore-rembang/static/js/main.318d44bc.js.map",
+    "main.cb8b8787.js.map": "/explore-rembang/static/js/main.cb8b8787.js.map",
     "787.28cb0dcd.chunk.js.map": "/explore-rembang/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b270140.css",
-    "static/js/main.318d44bc.js"
+    "static/js/main.cb8b8787.js"
   ]
 }
